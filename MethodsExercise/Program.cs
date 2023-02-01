@@ -32,6 +32,9 @@
 
             int answer5 = Methods.Divide(6, 3);
             Console.WriteLine(answer5);
+
+            int answer6 = Methods.add(3, 3, 3);
+            Console.WriteLine(answer6);
         }
     }
 }
